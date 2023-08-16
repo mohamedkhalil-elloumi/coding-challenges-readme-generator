@@ -1,0 +1,15 @@
+{
+  "name": "coding-challenges-readme-generator",
+  "version": "1.0.0",
+  "description": "project with automated readme files generated for solved problems",
+  "repository": "git@github.com:mohamedkhalil-elloumi/coding-challenges-readme-generator.git",
+  "author": "Mohamed Khalil Elloumi",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {},
+  "private": false,
+  "devDependencies": {
+    "typescript": "^5.1.6",
+    "vitest": "^0.34.1"
+  }
+}
