@@ -6,7 +6,9 @@
   "author": "Mohamed Khalil Elloumi",
   "license": "MIT",
   "type": "module",
-  "scripts": {},
+  "scripts": {
+    "test": "vitest"
+  },
   "private": false,
   "devDependencies": {
     "typescript": "^5.1.6",
